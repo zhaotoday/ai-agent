@@ -1,2 +1,7 @@
-# ai-agents
-智能体学习笔记。
+#### 开源
+
+- [dify-plus](https://github.com/YFGaia/dify-plus)
+- [dify](https://github.com/langgenius/dify)
+- [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
+- [DifyAIA](https://github.com/BannyLon/DifyAIA)
+  
