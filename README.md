@@ -1,5 +1,6 @@
 #### 开源
 
+- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [dify-plus](https://github.com/YFGaia/dify-plus)
 - [dify](https://github.com/langgenius/dify)
 - [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
