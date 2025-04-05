@@ -1,3 +1,7 @@
+#### 竞品
+
+- [magic](https://21st.dev/magic)
+
 #### 开源
 
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
