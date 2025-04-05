@@ -20,3 +20,4 @@
 - [智能体的核心模式和架构](https://www.bilibili.com/video/BV1LvXaY9Ex8/)
 - [吃透Agent智能体全套教程](https://www.bilibili.com/video/BV13BZbYXEVG/)
 - [Dify 招聘行业AI 智能体详解](https://www.bilibili.com/video/BV1kUXxYDEhp/)
+- [AI智能体，2025年普通人的机会](https://www.bilibili.com/video/BV15yZ2YkEVG/)
