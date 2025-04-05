@@ -18,3 +18,4 @@
 
 #### 视频
 - [吃透Agent智能体全套教程](https://www.bilibili.com/video/BV13BZbYXEVG/)
+- [Dify 招聘行业AI 智能体详解](https://www.bilibili.com/video/BV1kUXxYDEhp/)
