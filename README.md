@@ -21,3 +21,4 @@
 - [吃透Agent智能体全套教程](https://www.bilibili.com/video/BV13BZbYXEVG/)
 - [Dify 招聘行业AI 智能体详解](https://www.bilibili.com/video/BV1kUXxYDEhp/)
 - [AI智能体，2025年普通人的机会](https://www.bilibili.com/video/BV15yZ2YkEVG/)
+- [从零搭建自己的智能体](https://www.bilibili.com/video/BV1Y9ZtYXEFi/)
