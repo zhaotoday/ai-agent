@@ -1,4 +1,5 @@
 #### 竞品
+- [开辟者科技](https://kpz.cc/)
 - [积木网](https://www.jeemoo.com/)
 - [magic](https://21st.dev/magic)
 
