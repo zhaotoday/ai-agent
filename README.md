@@ -4,6 +4,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent)
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [dify-plus](https://github.com/YFGaia/dify-plus)
 - [dify](https://github.com/langgenius/dify)
