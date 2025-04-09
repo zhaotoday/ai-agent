@@ -1,4 +1,5 @@
 #### 竞品
+- [Agent云](https://www.agentsyun.com/)
 - [腾讯元器](https://yuanqi.tencent.com/agent-shop)
 - [开辟者科技](https://kpz.cc/)
 - [积木网](https://www.jeemoo.com/)
