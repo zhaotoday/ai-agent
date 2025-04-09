@@ -1,4 +1,5 @@
 #### 竞品
+- [Zion](https://www.functorz.com/)
 - [汇智智能](https://www.huizhihuyuai.com/)
 - [gnomic](https://www.gnomic.cn/)
 - [Agent云](https://www.agentsyun.com/)
