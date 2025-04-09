@@ -1,4 +1,5 @@
 #### 竞品
+- [汇智智能](https://www.huizhihuyuai.com/)
 - [gnomic](https://www.gnomic.cn/)
 - [Agent云](https://www.agentsyun.com/)
 - [腾讯元器](https://yuanqi.tencent.com/agent-shop)
