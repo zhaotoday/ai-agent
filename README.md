@@ -2,6 +2,7 @@
 - [汇智智能](https://www.huizhihuyuai.com/)
 - [gnomic](https://www.gnomic.cn/)
 - [Agent云](https://www.agentsyun.com/)
+- [腾讯混元](https://hunyuan.tencent.com/)
 - [腾讯元宝](https://yuanbao.tencent.com/chat)
 - [腾讯元器](https://yuanqi.tencent.com/agent-shop)
 - [开辟者科技](https://kpz.cc/)
