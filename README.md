@@ -14,6 +14,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [tinyflow](https://github.com/tinyflow-ai/tinyflow)
 - [awesome-agents](https://github.com/kyrolabs/awesome-agents)
 - [Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent)
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
