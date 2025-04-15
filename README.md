@@ -14,6 +14,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [Agent-S](https://github.com/simular-ai/Agent-S)
 - [PPTAgent](https://github.com/icip-cas/PPTAgent)
 - [XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)
 - [tinyflow](https://github.com/tinyflow-ai/tinyflow)
