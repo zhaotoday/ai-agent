@@ -15,6 +15,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [deepsoc](https://github.com/flagify-com/deepsoc)
 - [codex](https://github.com/openai/codex)
 - [Agent-S](https://github.com/simular-ai/Agent-S)
 - [PPTAgent](https://github.com/icip-cas/PPTAgent)
