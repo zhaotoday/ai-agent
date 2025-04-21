@@ -1,4 +1,5 @@
-#### 竞品
+#### 产品
+- [AutoGLM 沉思](https://autoglm-research.zhipuai.cn/)
 - [anakin](https://anakin.ai/zh-cn)
 - [天壤小白](https://www.tianrang.com/)
 - [百宝箱](https://tbox.alipay.com/pro-about)
