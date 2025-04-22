@@ -15,6 +15,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [adk-python](https://github.com/google/adk-python)
 - [deepsoc](https://github.com/flagify-com/deepsoc)
 - [codex](https://github.com/openai/codex)
 - [Agent-S](https://github.com/simular-ai/Agent-S)
