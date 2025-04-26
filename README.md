@@ -15,6 +15,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [suna](https://github.com/kortix-ai/suna)
 - [adk-python](https://github.com/google/adk-python)
 - [deepsoc](https://github.com/flagify-com/deepsoc)
 - [codex](https://github.com/openai/codex)
