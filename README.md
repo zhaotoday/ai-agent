@@ -15,6 +15,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 - [suna](https://github.com/kortix-ai/suna)
 - [adk-python](https://github.com/google/adk-python)
 - [deepsoc](https://github.com/flagify-com/deepsoc)
