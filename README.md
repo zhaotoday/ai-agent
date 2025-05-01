@@ -15,6 +15,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [Dify2OpenAI](https://github.com/onenov/Dify2OpenAI)
 - [Dify-WebUI](https://github.com/machaojin1917939763/Dify-WebUI)
 - [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 - [suna](https://github.com/kortix-ai/suna)
