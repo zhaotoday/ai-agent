@@ -15,6 +15,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [dify-plugins](https://github.com/langgenius/dify-plugins)
 - [dify-chat](https://github.com/lexmin0412/dify-chat)
 - [Dify2OpenAI](https://github.com/onenov/Dify2OpenAI)
 - [Dify-WebUI](https://github.com/machaojin1917939763/Dify-WebUI)
