@@ -40,6 +40,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [基于 MCP 的 AI Agent 应用开发实践](https://juejin.cn/post/7485691461296652338)
 - [什么样的智能体才算“真正能干活”？](https://juejin.cn/post/7491474391504699443)
 - [面向业务开发的 Coze 使用指南](https://juejin.cn/post/7350142836623523903)
 - [37.4k 的 Dify，一款小白也可以轻松上手的大模型开发平台（一）：部署及基础使用](https://juejin.cn/post/7390682536744026146)
