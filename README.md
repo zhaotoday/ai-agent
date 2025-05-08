@@ -19,7 +19,6 @@
 - [dify-chat](https://github.com/lexmin0412/dify-chat)
 - [Dify2OpenAI](https://github.com/onenov/Dify2OpenAI)
 - [Dify-WebUI](https://github.com/machaojin1917939763/Dify-WebUI)
-- [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 - [suna](https://github.com/kortix-ai/suna)
 - [adk-python](https://github.com/google/adk-python)
 - [deepsoc](https://github.com/flagify-com/deepsoc)
