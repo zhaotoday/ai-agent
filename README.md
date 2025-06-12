@@ -40,6 +40,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [AI应用如何从 Chat 进化为 Agent？开源项目源码深度揭秘｜得物技术](https://juejin.cn/post/7486010951499907124)
 - [基于 MCP 的 AI Agent 应用开发实践](https://juejin.cn/post/7485691461296652338)
 - [什么样的智能体才算“真正能干活”？](https://juejin.cn/post/7491474391504699443)
 - [面向业务开发的 Coze 使用指南](https://juejin.cn/post/7350142836623523903)
