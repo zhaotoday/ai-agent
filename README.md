@@ -16,6 +16,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [mem0](https://github.com/mem0ai/mem0)
 - [voltagent](https://github.com/VoltAgent/voltagent)
 - [openai-agents-js](https://github.com/openai/openai-agents-js)
 - [dify-on-wechat](https://github.com/mengdahuang/dify-on-wechat)
