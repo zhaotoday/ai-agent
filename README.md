@@ -16,6 +16,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)
 - [agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [mem0](https://github.com/mem0ai/mem0)
 - [voltagent](https://github.com/VoltAgent/voltagent)
