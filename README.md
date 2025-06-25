@@ -49,6 +49,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [【翻译】LLM智能体图解指南](https://juejin.cn/post/7519355333858787367)
 - [AI Agent从概念到实战全面解析（六）：主流AI Agent开发框架与实践指南](https://juejin.cn/post/7516100315852849202)
 - [AI应用如何从 Chat 进化为 Agent？开源项目源码深度揭秘｜得物技术](https://juejin.cn/post/7486010951499907124)
 - [基于 MCP 的 AI Agent 应用开发实践](https://juejin.cn/post/7485691461296652338)
