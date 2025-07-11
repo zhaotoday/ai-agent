@@ -20,6 +20,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 - [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)
 - [agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [mem0](https://github.com/mem0ai/mem0)
