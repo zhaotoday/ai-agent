@@ -53,6 +53,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [30 行代码 langChain.js 开发你的第一个 Agent](https://juejin.cn/post/7524180232024490020)
 - [关于智能体（AI Agent），不得不看的一篇总结（建议收藏）](https://juejin.cn/post/7530091637373665280)
 - [深入浅出 AI 智能体（AI Agent）｜技术干货](https://juejin.cn/post/7412505754383024128)
 - [Agent TARS：一键让AI托管电脑！字节开源PC端多模态AI助手，无缝集成浏览器与系统操作](https://zhuanlan.zhihu.com/p/32079739765)
