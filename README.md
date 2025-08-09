@@ -20,6 +20,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
 - [joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie)
 - [wordpress_kefu_ai_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent)
 - [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
