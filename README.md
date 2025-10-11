@@ -58,6 +58,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [MCP有了，Agents.md 又是什么？](https://juejin.cn/post/7556808817444241408)
 - [🚀从零构建AI智能体：九大核心技术拆解与落地建议](https://juejin.cn/post/7548595210564403215)
 - [前端开发 AI Agent 智能体，需要掌握哪些知识？](https://juejin.cn/post/7547330342706921518)
 - [AI智能体搭建平台全景指南：从入门到选型](https://juejin.cn/post/7541770924799721507)
