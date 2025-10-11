@@ -20,6 +20,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [eigent](https://github.com/eigent-ai/eigent)
 - [TrainPPTAgent](https://github.com/johnson7788/TrainPPTAgent)
 - [Youtu-agent](https://github.com/Tencent/Youtu-agent)
 - [ai-agents](https://github.com/stars/hiwanz/lists/ai-agents)
