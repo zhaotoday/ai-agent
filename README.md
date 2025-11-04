@@ -20,6 +20,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [BettaFish](https://github.com/666ghj/BettaFish)
 - [camel](https://github.com/camel-ai/camel)
 - [eigent](https://github.com/eigent-ai/eigent)
 - [TrainPPTAgent](https://github.com/johnson7788/TrainPPTAgent)
