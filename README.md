@@ -60,6 +60,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [规训 AI Agent 实践](https://juejin.cn/post/7567009647633219599)
 - [大模型Agent开发框架哪家强？12项Agent开发框架入门与选型](https://juejin.cn/post/7556449387657134130)
 - [💡2025年AI架构趋势：深度解析AI智能体架构设计的九大核心技术](https://juejin.cn/post/7534337449906372642)
 - [MCP有了，Agents.md 又是什么？](https://juejin.cn/post/7556808817444241408)
