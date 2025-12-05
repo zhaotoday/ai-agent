@@ -61,6 +61,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [构建一个融合前端、模拟后端与大模型服务的全栈 AI 应用](https://juejin.cn/post/7579480677903171619)
 - [实战干货-Vue实现AI聊天助手全流程解析](https://juejin.cn/post/7569798982942081060)
 - [2025年AI Agent Builder终极指南：从零基础到大师，15款顶级工具全解析！](https://juejin.cn/post/7567605678581530665)
 - [全面掌握 AI 智能体 30 个高频面试的问题与解答相关的核心知识点！](https://juejin.cn/post/7567889397497511999)
