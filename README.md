@@ -1,5 +1,6 @@
 #### 平台
 - [higress](https://higress.ai/)
+- [astrbot](https://astrbot.app/)
 
 #### 教程
 - [从零开始构建智能体](https://github.com/datawhalechina/hello-agents)
