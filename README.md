@@ -25,6 +25,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [PromptX](https://github.com/Deepractice/PromptX)
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [nuwax](https://github.com/nuwax-ai/nuwax)
