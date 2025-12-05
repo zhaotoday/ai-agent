@@ -23,6 +23,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [nuwax](https://github.com/nuwax-ai/nuwax)
 - [stagewise](https://github.com/stagewise-io/stagewise)
 - [BettaFish](https://github.com/666ghj/BettaFish)
