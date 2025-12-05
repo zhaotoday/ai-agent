@@ -24,6 +24,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [MaxKB](https://github.com/1Panel-dev/MaxKB)
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [nuwax](https://github.com/nuwax-ai/nuwax)
 - [stagewise](https://github.com/stagewise-io/stagewise)
