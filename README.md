@@ -1,6 +1,9 @@
 #### 平台
 - [higress](https://higress.ai/)
 
+#### 教程
+- [从零开始构建智能体](https://github.com/datawhalechina/hello-agents)
+
 #### 产品
 - [云程低代码平台](http://www.yunchengxc.com/)
 - [mastra](https://mastra.ai/)
