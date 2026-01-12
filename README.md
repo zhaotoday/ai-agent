@@ -4,6 +4,7 @@
 - [maxkb](https://www.maxkb.cn/)
 
 #### 教程
+- [Agent设计模式](https://github.com/xindoo/agentic-design-patterns)
 - [从零开始构建智能体](https://github.com/datawhalechina/hello-agents)
 
 #### 产品
