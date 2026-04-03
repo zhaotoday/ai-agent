@@ -26,6 +26,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
 - [Aix-DB](https://github.com/apconw/Aix-DB)
 - [ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
 - [wecom-cli](https://github.com/WecomTeam/wecom-cli)
