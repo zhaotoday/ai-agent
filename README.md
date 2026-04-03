@@ -26,6 +26,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
 - [wecom-cli](https://github.com/WecomTeam/wecom-cli)
 - [MaiBot](https://github.com/Mai-with-u/MaiBot)
 - [PromptX](https://github.com/Deepractice/PromptX)
