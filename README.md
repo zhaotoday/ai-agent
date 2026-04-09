@@ -27,6 +27,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [larksuite/cli](https://github.com/larksuite/cli)
 - [ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
 - [Aix-DB](https://github.com/apconw/Aix-DB)
 - [ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
