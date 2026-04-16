@@ -28,6 +28,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [GenericAgent](https://github.com/lsdefine/GenericAgent)
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)
 - [larksuite/cli](https://github.com/larksuite/cli)
 - [ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
