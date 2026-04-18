@@ -28,6 +28,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [multica](https://github.com/multica-ai/multica)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
 - [GenericAgent](https://github.com/lsdefine/GenericAgent)
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)
