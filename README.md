@@ -4,6 +4,7 @@
 - [maxkb](https://www.maxkb.cn/)
 
 #### 教程
+- [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [Hermes Engineering 完全指南](https://zabr1314.github.io/Hermes-Engineering-ai-agent-/)
 - [智能体设计模式](https://github.com/fzy2012/rhzl-Agentic-Design-Patterns-cn)
 - [Agent设计模式](https://github.com/xindoo/agentic-design-patterns)
