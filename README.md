@@ -85,6 +85,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [如何从零开始实现一个 AI Agent CLI](https://juejin.cn/post/7646252390954582042)
 - [前端视角下认识AI Agent](https://juejin.cn/post/7522476555774066703)
 - [GitHub 上最值得关注的 14 个开源 AI 低代码工具](https://juejin.cn/post/7565043507124633615)
 - [🤖✨ 生成式应用架构师的修炼手册](https://juejin.cn/post/7588695570635587622)
