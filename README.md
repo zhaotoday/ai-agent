@@ -86,6 +86,7 @@
 - [Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot)
 
 #### 文章
+- [AI Harness 企业级落地实践（一）](https://juejin.cn/post/7641912628643528738)
 - [做 Agent 开发入门必懂的 10 个 Agent 核心概念](https://juejin.cn/post/7638744445022945307)
 - [如何从零开始实现一个 AI Agent CLI](https://juejin.cn/post/7646252390954582042)
 - [前端视角下认识AI Agent](https://juejin.cn/post/7522476555774066703)
