@@ -29,6 +29,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [pi-gui](https://github.com/minghinmatthewlam/pi-gui)
 - [@agegr/pi-web](https://www.npmjs.com/package/@agegr/pi-web)
 - [earendil-works/pi](https://github.com/earendil-works/pi)
 - [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
