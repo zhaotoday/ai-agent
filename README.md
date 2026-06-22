@@ -29,6 +29,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [tutti](https://github.com/tutti-os/tutti)
 - [pi-gui](https://github.com/minghinmatthewlam/pi-gui)
 - [@agegr/pi-web](https://www.npmjs.com/package/@agegr/pi-web)
 - [earendil-works/pi](https://github.com/earendil-works/pi)
