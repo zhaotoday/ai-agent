@@ -31,10 +31,10 @@
 #### ChatBox
 - [deepchat](https://github.com/ThinkInAIXYZ/deepchat)
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio)
-- [ChatLab](https://github.com/ChatLab/ChatLab)
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [ChatLab](https://github.com/ChatLab/ChatLab)
 - [hermes-desktop](https://github.com/fathah/hermes-desktop)
 - [tutti](https://github.com/tutti-os/tutti)
 - [pi-gui](https://github.com/minghinmatthewlam/pi-gui)
