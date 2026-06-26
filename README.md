@@ -28,6 +28,12 @@
 - [积木网](https://www.jeemoo.com/)
 - [magic](https://21st.dev/magic)
 
+#### ChatBox
+- [deepchat](https://github.com/ThinkInAIXYZ/deepchat)
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio)
+- [ChatLab](https://github.com/ChatLab/ChatLab)
+- [chatbox](https://github.com/chatboxai/chatbox)
+
 #### 开源
 - [hermes-desktop](https://github.com/fathah/hermes-desktop)
 - [tutti](https://github.com/tutti-os/tutti)
