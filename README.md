@@ -29,6 +29,7 @@
 - [magic](https://21st.dev/magic)
 
 #### 开源
+- [hermes-desktop](https://github.com/fathah/hermes-desktop)
 - [tutti](https://github.com/tutti-os/tutti)
 - [pi-gui](https://github.com/minghinmatthewlam/pi-gui)
 - [@agegr/pi-web](https://www.npmjs.com/package/@agegr/pi-web)
