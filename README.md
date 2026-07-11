@@ -11,6 +11,9 @@
 - [Agent设计模式](https://github.com/xindoo/agentic-design-patterns)
 - [从零开始构建智能体](https://github.com/datawhalechina/hello-agents)
 
+#### 视频
+- [【城】大厂Agent实战对比，谁能真正帮打工人摸鱼｜含Skill实战](https://www.bilibili.com/video/BV1heMh6fEm9/)
+
 #### 产品
 - [云程低代码平台](http://www.yunchengxc.com/)
 - [mastra](https://mastra.ai/)
