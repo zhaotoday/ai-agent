@@ -38,6 +38,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [langchat](https://github.com/LangChat/langchat)
 - [SayIt](https://github.com/crosswk/SayIt)
 - [ChatLab](https://github.com/ChatLab/ChatLab)
 - [hermes-desktop](https://github.com/fathah/hermes-desktop)
