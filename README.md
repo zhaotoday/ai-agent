@@ -38,6 +38,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [LobsterAI](https://github.com/netease-youdao/LobsterAI)
 - [pig-ui](https://github.com/pig-mesh/pig-ui)
 - [langchat](https://github.com/LangChat/langchat)
 - [SayIt](https://github.com/crosswk/SayIt)
