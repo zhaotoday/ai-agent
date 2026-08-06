@@ -39,6 +39,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [cloudflare/computer](https://github.com/cloudflare/computer)
 - [open-cowork](https://github.com/OpenCoworkAI/open-cowork)
 - [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)
 - [earendil-works/pi](https://github.com/earendil-works/pi)
