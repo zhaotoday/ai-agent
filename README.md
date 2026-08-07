@@ -15,6 +15,7 @@
 - [【城】大厂Agent实战对比，谁能真正帮打工人摸鱼｜含Skill实战](https://www.bilibili.com/video/BV1heMh6fEm9/)
 
 #### 产品
+- [WorkBuddy](https://www.workbuddy.cn/)
 - [千问办公](https://qwenwork.cn/)
 - [云程低代码平台](http://www.yunchengxc.com/)
 - [mastra](https://mastra.ai/)
