@@ -4,6 +4,7 @@
 - [maxkb](https://www.maxkb.cn/)
 
 #### 教程
+- [DeepTutor 中文文档](https://docs.deeptutor.info/zh-cn/)
 - [agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)
 - [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [Hermes Engineering 完全指南](https://zabr1314.github.io/Hermes-Engineering-ai-agent-/)
