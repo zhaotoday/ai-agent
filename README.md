@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [open-harness](https://github.com/MaxGfeller/open-harness)
 - [OpenCLI](https://github.com/jackwener/OpenCLI)
 - [agentbox-sdk](https://github.com/TwillAI/agentbox-sdk)
 - [agent-messenger](https://github.com/agent-messenger/agent-messenger)
