@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [harness-sdk](https://github.com/strands-agents/harness-sdk)
 - [agentclientprotocol/typescript-sdk](https://github.com/agentclientprotocol/typescript-sdk)
 - [wechatbot](https://github.com/corespeed-io/wechatbot)
 - [Octop](https://github.com/TencentCloud/Octop)
