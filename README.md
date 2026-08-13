@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [agentclientprotocol/typescript-sdk](https://github.com/agentclientprotocol/typescript-sdk)
 - [wechatbot](https://github.com/corespeed-io/wechatbot)
 - [Octop](https://github.com/TencentCloud/Octop)
 - [cloudflare/computer](https://github.com/cloudflare/computer)
