@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [agent-messenger](https://github.com/agent-messenger/agent-messenger)
 - [open-connector](https://github.com/oomol-lab/open-connector)
 - [nanoclaw](https://github.com/nanocoai/nanoclaw)
 - [axonhub](https://github.com/looplj/axonhub)
