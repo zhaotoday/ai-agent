@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [channels-sdk](https://github.com/CopilotKit/channels-sdk)
 - [open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)
 - [cline](https://github.com/cline/cline)
 - [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks)
