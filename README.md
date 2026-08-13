@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [open-connector](https://github.com/oomol-lab/open-connector)
 - [nanoclaw](https://github.com/nanocoai/nanoclaw)
 - [axonhub](https://github.com/looplj/axonhub)
 - [channels-sdk](https://github.com/CopilotKit/channels-sdk)
