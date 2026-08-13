@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [cline](https://github.com/cline/cline)
 - [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks)
 - [harness-sdk](https://github.com/strands-agents/harness-sdk)
 - [agentclientprotocol/typescript-sdk](https://github.com/agentclientprotocol/typescript-sdk)
