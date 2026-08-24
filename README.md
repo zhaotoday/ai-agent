@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [openagent](https://github.com/the-open-agent/openagent)
 - [deepseek-pp](https://github.com/zhu1090093659/deepseek-pp)
 - [open-harness](https://github.com/MaxGfeller/open-harness)
 - [OpenCLI](https://github.com/jackwener/OpenCLI)
