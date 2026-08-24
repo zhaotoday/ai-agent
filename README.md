@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [hello-halo](https://github.com/openkursar/hello-halo)
 - [sandbox](https://github.com/agent-infra/sandbox)
 - [openagent](https://github.com/the-open-agent/openagent)
 - [deepseek-pp](https://github.com/zhu1090093659/deepseek-pp)
