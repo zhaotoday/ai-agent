@@ -41,6 +41,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [vercel/ai](https://github.com/vercel/ai)
 - [hello-halo](https://github.com/openkursar/hello-halo)
 - [sandbox](https://github.com/agent-infra/sandbox)
 - [openagent](https://github.com/the-open-agent/openagent)
