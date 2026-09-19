@@ -4,6 +4,7 @@
 - [maxkb](https://www.maxkb.cn/)
 
 #### 教程
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)
 - [深入理解 AI Agent：设计原理与工程实践](https://github.com/bojieli/ai-agent-book)
 - [deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action)
 - [DeepTutor 中文文档](https://docs.deeptutor.info/zh-cn/)
