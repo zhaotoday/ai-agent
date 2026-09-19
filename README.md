@@ -44,6 +44,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [Yuxi](https://github.com/xerrors/Yuxi)
 - [eve](https://github.com/vercel/eve)
 - [hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [vercel/ai](https://github.com/vercel/ai)
