@@ -44,6 +44,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [siyuan](https://github.com/siyuan-note/siyuan)
 - [happyclaw](https://github.com/riba2534/happyclaw)
 - [EvoFlow](https://github.com/EvovexAI/EvoFlow)
 - [Yuxi](https://github.com/xerrors/Yuxi)
