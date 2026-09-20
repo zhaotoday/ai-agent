@@ -44,6 +44,9 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [graphify](https://github.com/Graphify-Labs/graphify)
+- [ragflow-plus](https://github.com/zstar1003/ragflow-plus)
+- [ragflow](https://github.com/infiniflow/ragflow)
 - [WeKnora](https://github.com/Tencent/WeKnora)
 - [xiaobei](https://github.com/TeamWiseFlow/xiaobei)
 - [siyuan](https://github.com/siyuan-note/siyuan)
