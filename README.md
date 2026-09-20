@@ -44,6 +44,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [obsidian-skills](https://github.com/kepano/obsidian-skills)
 - [tencent-weknora-mcp](https://pypi.org/project/tencent-weknora-mcp/)
 - [kotaemon](https://github.com/Cinnamon/kotaemon)
 - [llmwiki](https://github.com/lucasastorian/llmwiki)
