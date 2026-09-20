@@ -44,6 +44,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [tencent-weknora-mcp](https://pypi.org/project/tencent-weknora-mcp/)
 - [kotaemon](https://github.com/Cinnamon/kotaemon)
 - [llmwiki](https://github.com/lucasastorian/llmwiki)
 - [graphify](https://github.com/Graphify-Labs/graphify)
