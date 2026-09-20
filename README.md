@@ -44,6 +44,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [llmwiki](https://github.com/lucasastorian/llmwiki)
 - [graphify](https://github.com/Graphify-Labs/graphify)
 - [ragflow-plus](https://github.com/zstar1003/ragflow-plus)
 - [ragflow](https://github.com/infiniflow/ragflow)
