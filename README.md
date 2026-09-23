@@ -45,6 +45,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [openmuse](https://github.com/CopilotKit/openmuse)
 - [teamai-cli](https://github.com/Tencent/teamai-cli)
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 - [obsidian-skills](https://github.com/kepano/obsidian-skills)
