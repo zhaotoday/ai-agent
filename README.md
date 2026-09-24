@@ -1,4 +1,5 @@
 #### 平台
+- [lightvela](https://lightvela.com/)
 - [bigmodel](https://open.bigmodel.cn/)
 - [higress](https://higress.ai/)
 - [astrbot](https://astrbot.app/)
