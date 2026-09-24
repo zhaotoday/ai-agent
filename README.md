@@ -1,4 +1,5 @@
 #### 平台
+- [bigmodel](https://open.bigmodel.cn/)
 - [higress](https://higress.ai/)
 - [astrbot](https://astrbot.app/)
 - [maxkb](https://www.maxkb.cn/)
