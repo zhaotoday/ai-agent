@@ -47,6 +47,8 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [gaia-workflow-engine](https://github.com/boommanpro/gaia-workflow-engine)
+- [langchat](https://github.com/LangChat/langchat)
 - [onyx](https://github.com/onyx-dot-app/onyx)
 - [openmuse](https://github.com/CopilotKit/openmuse)
 - [teamai-cli](https://github.com/Tencent/teamai-cli)
