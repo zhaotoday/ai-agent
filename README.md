@@ -47,6 +47,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [onyx](https://github.com/onyx-dot-app/onyx)
 - [openmuse](https://github.com/CopilotKit/openmuse)
 - [teamai-cli](https://github.com/Tencent/teamai-cli)
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
