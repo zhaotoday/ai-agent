@@ -47,6 +47,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [OpenShell](https://github.com/NVIDIA/OpenShell)
 - [hindsight](https://github.com/vectorize-io/hindsight)
 - [gaia-workflow-engine](https://github.com/boommanpro/gaia-workflow-engine)
 - [langchat](https://github.com/LangChat/langchat)
