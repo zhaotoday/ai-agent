@@ -47,6 +47,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [xiaobei](https://github.com/TeamWiseFlow/xiaobei)
 - [douchat](https://github.com/thinkany-ai/douchat)
 - [OpenShell](https://github.com/NVIDIA/OpenShell)
 - [hindsight](https://github.com/vectorize-io/hindsight)
