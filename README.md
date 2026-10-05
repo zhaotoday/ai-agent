@@ -47,6 +47,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [EvoFlow](https://github.com/EvovexAI/EvoFlow)
 - [Yuxi](https://github.com/xerrors/Yuxi)
 - [deepwrite](https://github.com/swjybky/deepwrite)
 - [xiaobei](https://github.com/TeamWiseFlow/xiaobei)
