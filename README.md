@@ -47,6 +47,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh/)
 - [EvoFlow](https://github.com/EvovexAI/EvoFlow)
 - [Yuxi](https://github.com/xerrors/Yuxi)
 - [deepwrite](https://github.com/swjybky/deepwrite)
