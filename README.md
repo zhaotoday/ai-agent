@@ -6,6 +6,7 @@
 - [maxkb](https://www.maxkb.cn/)
 
 #### 教程
+- [ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)
 - [深入理解 AI Agent：设计原理与工程实践](https://github.com/bojieli/ai-agent-book)
 - [deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action)
