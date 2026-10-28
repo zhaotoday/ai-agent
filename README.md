@@ -48,6 +48,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [ragent](https://github.com/nageoffer/ragent)
 - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh/)
 - [EvoFlow](https://github.com/EvovexAI/EvoFlow)
 - [Yuxi](https://github.com/xerrors/Yuxi)
