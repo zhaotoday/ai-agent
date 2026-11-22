@@ -48,6 +48,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [chat-demo](https://github.com/deepseek-ai/chat-demo)
 - [appwrite](https://github.com/appwrite)
 - [graphify](https://github.com/Graphify-Labs/graphify)
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
