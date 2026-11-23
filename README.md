@@ -48,6 +48,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [tutti](https://github.com/tutti-os/tutti)
 - [chat-demo](https://github.com/deepseek-ai/chat-demo)
 - [appwrite](https://github.com/appwrite)
 - [graphify](https://github.com/Graphify-Labs/graphify)
