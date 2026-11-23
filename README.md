@@ -22,6 +22,7 @@
 - [【城】大厂Agent实战对比，谁能真正帮打工人摸鱼｜含Skill实战](https://www.bilibili.com/video/BV1heMh6fEm9/)
 
 #### 产品
+- [tutti](https://tutti.sh/zh)
 - [obsidian](https://obsidian.md/zh/)
 - [WorkBuddy](https://www.workbuddy.cn/)
 - [千问办公](https://qwenwork.cn/)
