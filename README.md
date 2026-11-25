@@ -49,6 +49,7 @@
 - [chatbox](https://github.com/chatboxai/chatbox)
 
 #### 开源
+- [LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS)
 - [tutti](https://github.com/tutti-os/tutti)
 - [chat-demo](https://github.com/deepseek-ai/chat-demo)
 - [appwrite](https://github.com/appwrite)
